@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **g1d5ny/g1d5ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
